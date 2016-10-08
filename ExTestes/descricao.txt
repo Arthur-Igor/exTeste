@@ -1,0 +1,9 @@
+Oi pessoal,
+
+Esse é o projeto que conversamos em sala de aula. Vocês devem desenvolver testes de unidade usando 
+a ferramenta JUnit para as classes Aluno e CadastroAluno. As funcionalidades dos métodos estão comentadas 
+em cada um deles. Peço que vocês desenvolvam os testes, mas não alterem as classes. Caso vocês identifiquem
+algum bug, o teste ficará com barra vermelha.
+
+O projeto compactado deve ser enviado para meu email (giovanni.surubim@gmail.com) até o dia 10/10 (próxima 
+segunda feira).
